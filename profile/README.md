@@ -30,6 +30,12 @@
 
 핀맵은 **3명의 대학생 디자이너**가 사용자 조사부터 경험 설계, 화면 디자인, 프로토타입 검증까지 함께 만드는 프로젝트입니다. 사용자에게 필요한 핵심 흐름을 검증하며 출시 가능한 앱으로 발전시키고 있습니다.
 
+| 팀원 | GitHub |
+| --- | --- |
+| 신서윤 | [@ssiissymhnn](https://github.com/ssiissymhnn) |
+| 이세은 | [@wowseen-sketch](https://github.com/wowseen-sketch) |
+| 정지현 | [@stophyun02](https://github.com/stophyun02) |
+
 ## 작업 도구
 
 - **디자인·프로토타입:** Figma
@@ -41,6 +47,6 @@
 
 - [웹 프로토타입 체험](https://pinmap-opal.vercel.app/)
 - [Figma 디자인 파일](https://www.figma.com/design/LdXCdWJrA53sBN9aBgQEDy/?node-id=365-52)
-- [현재 프로토타입 소스와 구현 범위](https://github.com/ssiissymhnn/savethings) — 저장소 접근 권한이 있는 팀원만 볼 수 있습니다.
+- [핀맵 팀 코드와 구현 범위](https://github.com/pinmap-team/savethings) — 비공개 저장소이며, 접근 권한이 있는 팀원만 볼 수 있습니다.
 
 <sub>핀맵은 현재 개발·검증 단계이며, 공개 프로토타입의 데이터는 각 방문자의 브라우저에 저장됩니다.</sub>
