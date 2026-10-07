@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">핀맵</title>
+  <desc id="desc">저장한 콘텐츠를 다시 발견하는 곳</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102C27"/>
+      <stop offset="1" stop-color="#1A4B3D"/>
+    </linearGradient>
+    <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#B7E8D2" stroke-opacity=".11" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#061B15" flood-opacity=".28"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="32" fill="url(#grid)"/>
+  <circle cx="1090" cy="-50" r="220" fill="#51DDA1" opacity=".08"/>
+  <circle cx="760" cy="450" r="250" fill="#51DDA1" opacity=".06"/>
+  <path d="M760 300 C830 260 815 160 920 175 S1060 125 1100 70" fill="none" stroke="#51DDA1" stroke-opacity=".55" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 13"/>
+  <g filter="url(#shadow)">
+    <circle cx="794" cy="281" r="14" fill="#D8F9E8"/>
+    <circle cx="794" cy="281" r="5" fill="#1B7052"/>
+    <circle cx="1063" cy="116" r="14" fill="#D8F9E8"/>
+    <circle cx="1063" cy="116" r="5" fill="#1B7052"/>
+    <path d="M928 139c-30 0-54 24-54 54 0 39 54 98 54 98s54-59 54-98c0-30-24-54-54-54z" fill="#51DDA1"/>
+    <circle cx="928" cy="193" r="20" fill="#153C31"/>
+  </g>
+  <g transform="translate(64 79)">
+    <rect width="92" height="92" rx="27" fill="#51DDA1"/>
+    <path d="M46 15c-16 0-29 13-29 29 0 21 29 50 29 50s29-29 29-50c0-16-13-29-29-29z" transform="translate(0 -10) scale(.9)" fill="#153C31"/>
+    <circle cx="42" cy="38" r="10" fill="#51DDA1"/>
+  </g>
+  <text x="64" y="250" fill="#F5FFF9" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">핀맵</text>
+  <text x="67" y="301" fill="#C0E7D5" font-family="Pretendard, Apple SD Gothic Neo, Noto Sans KR, sans-serif" font-size="25" font-weight="500" letter-spacing="-1">저장한 콘텐츠를 다시 발견하는 곳</text>
+  <text x="68" y="355" fill="#8DC8AC" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="5">PINMAP</text>
+</svg>
