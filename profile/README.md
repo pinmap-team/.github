@@ -5,7 +5,7 @@
 
   **저장만 하고 잊어버린 콘텐츠를, 필요한 순간 다시 발견할 수 있도록.**
 
-  [프로토타입 체험하기](https://dasibom-material-prototype.stophyun02.chatgpt.site/) · [Figma 디자인](https://www.figma.com/design/LdXCdWJrA53sBN9aBgQEDy/?node-id=365-52)
+  [프로토타입 체험하기](https://pinmap-opal.vercel.app/) · [Figma 디자인](https://www.figma.com/design/LdXCdWJrA53sBN9aBgQEDy/?node-id=365-52)
 </div>
 
 ## 프로젝트 소개
@@ -39,7 +39,7 @@
 
 ## 프로젝트 살펴보기
 
-- [웹 프로토타입 체험](https://dasibom-material-prototype.stophyun02.chatgpt.site/)
+- [웹 프로토타입 체험](https://pinmap-opal.vercel.app/)
 - [Figma 디자인 파일](https://www.figma.com/design/LdXCdWJrA53sBN9aBgQEDy/?node-id=365-52)
 - [현재 프로토타입 소스와 구현 범위](https://github.com/ssiissymhnn/savethings) — 저장소 접근 권한이 있는 팀원만 볼 수 있습니다.
 
