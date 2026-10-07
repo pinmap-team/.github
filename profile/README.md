@@ -47,6 +47,6 @@
 
 - [웹 프로토타입 체험](https://pinmap-opal.vercel.app/)
 - [Figma 디자인 파일](https://www.figma.com/design/LdXCdWJrA53sBN9aBgQEDy/?node-id=365-52)
-- [핀맵 팀 코드와 구현 범위](https://github.com/pinmap-team/savethings) — 비공개 저장소이며, 접근 권한이 있는 팀원만 볼 수 있습니다.
+- [핀맵 팀 코드와 구현 범위](https://github.com/pinmap-team/pinmap) — 비공개 저장소이며, 접근 권한이 있는 팀원만 볼 수 있습니다.
 
 <sub>핀맵은 현재 개발·검증 단계이며, 공개 프로토타입의 데이터는 각 방문자의 브라우저에 저장됩니다.</sub>
