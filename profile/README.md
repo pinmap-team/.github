@@ -1,5 +1,3 @@
-<img src="./assets/pinmap-avatar-2048.png" alt="핀맵 로고" width="160" height="160">
-
 # 핀맵 · Pinmap
 
 핀맵은 여러 곳에 저장해 둔 콘텐츠를 장소와 연결해, 필요할 때 지도에서 다시 발견할 수 있도록 돕는 서비스입니다.
